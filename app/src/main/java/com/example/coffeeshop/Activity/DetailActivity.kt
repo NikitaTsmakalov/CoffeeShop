@@ -73,7 +73,7 @@ class DetailActivity : AppCompatActivity() {
             }
 
             backBtn.setOnClickListener {
-                startActivity(Intent(this@DetailActivity, MainActivity::class.java))
+                finish()
             }
 
             plusCart.setOnClickListener {
