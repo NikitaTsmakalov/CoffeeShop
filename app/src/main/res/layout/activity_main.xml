@@ -197,6 +197,7 @@
     >
 
     <LinearLayout
+        android:id="@+id/cartBtn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="center_vertical">
@@ -320,7 +321,7 @@
                 android:textColor="@color/white"
                 android:textSize="10sp" />
         </LinearLayout>
-        </LinearLayout>
+    </LinearLayout>
 </com.google.android.material.bottomnavigation.BottomNavigationView>
     </androidx.coordinatorlayout.widget.CoordinatorLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
