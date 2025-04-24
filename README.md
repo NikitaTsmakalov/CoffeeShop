@@ -41,6 +41,6 @@ LiveData для реактивного UI.
 9. Сборка: Gradle (Kotlin DSL)
 
 ## 📸 Демонстрация
-<img src="/screenshots/coffeeApp.gif" width="30%" height="30%" alt="app demonstration"/>  
+<img src="/screenshots/coffeeAppDemo.gif" width="30%" height="30%" alt="app demonstration"/>  
 
 
